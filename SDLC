@@ -1,6 +1,25 @@
-Requirement gathering and analysis
-Design
-Implementation or coding
-Testing
-Deployment
-Maintenance
+Fase 1: Kravindsamling og analyse: 
+- Identificer og indsamle krav fra interessenter, herunder brugere, kunder og andre interessenter. 
+
+Fase 2: Forundersøgelse:
+- Markedsundersøgelse: Undersøg markedet og identificer muligheder og trusler.
+- Økonomisk vurdering.
+- Risikovurdering.
+
+Fase 3: Design:
+- Systemdesign: eksempel UML
+
+Fase 4: Kodning:
+- Implementering: Omsæt det detaljerede design til faktisk kode. 
+
+Fase 5: Test:
+- Systemtest: Udfør systemtests for at sikre, at alle komponenter fungerer korrekt sammen.
+- Brugertest.
+
+Fase 6: Installation/implementering:
+- Dataoverførsel: Overfør data fra eventuelle eksisterende systemer til det nye system.
+- Fejlhåndtering
+
+Fase 7: Vedligeholdelse:
+- Fejlrettelse
+- Opdateringer og forbedringer
